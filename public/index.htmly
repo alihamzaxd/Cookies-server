@@ -3,14 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Royal Heroz | Rulex Cookies Convo Tool</title>
+  <title>Maxiiw Larka'w | Cookies Convo Tool</title>
   <style>
     * { box-sizing: border-box; }
     body {
       margin: 0;
       padding: 0;
       font-family: 'Segoe UI', sans-serif;
-      background: url('https://i.ibb.co/PGJHKLtC/4a9d24188b89e62718fd457ca14e7d88.jpg') no-repeat center center fixed;
+      background: url('1000229652.jpg') no-repeat center center fixed;
       background-size: cover;
       color: #fff;
       display: flex;
@@ -91,7 +91,7 @@
     </div>
   </div>
 
-  <footer>&copy; 2025 Royal Heroz • All Rights Reserved</footer>
+  <footer>&copy; 2025 Maxiiw Larkaw • All Rights Reserved</footer>
 
   <script>
     const startForm = document.getElementById('startForm');
